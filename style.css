@@ -1,0 +1,46 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+h3
+{
+    text-align: center;
+}
+
+
+#song_name
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    height: 200px;
+    width: 100px;
+
+}
